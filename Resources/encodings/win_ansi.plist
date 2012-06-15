@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>80</key>
+	<string>20AC</string>
+	<key>82</key>
+	<string>201A</string>
+	<key>83</key>
+	<string>0192</string>
+	<key>84</key>
+	<string>201E</string>
+	<key>85</key>
+	<string>2026</string>
+	<key>86</key>
+	<string>2020</string>
+	<key>87</key>
+	<string>2021</string>
+	<key>88</key>
+	<string>02C6</string>
+	<key>89</key>
+	<string>2030</string>
+	<key>8A</key>
+	<string>0160</string>
+	<key>8B</key>
+	<string>2039</string>
+	<key>8C</key>
+	<string>0152</string>
+	<key>8E</key>
+	<string>017D</string>
+	<key>91</key>
+	<string>2018</string>
+	<key>92</key>
+	<string>2019</string>
+	<key>93</key>
+	<string>201C</string>
+	<key>94</key>
+	<string>201D</string>
+	<key>95</key>
+	<string>2022</string>
+	<key>96</key>
+	<string>2013</string>
+	<key>97</key>
+	<string>2014</string>
+	<key>98</key>
+	<string>02DC</string>
+	<key>99</key>
+	<string>2122</string>
+	<key>9A</key>
+	<string>0161</string>
+	<key>9B</key>
+	<string>203A</string>
+	<key>9C</key>
+	<string>0152</string>
+	<key>9E</key>
+	<string>017E</string>
+	<key>9F</key>
+	<string>0178</string>
+</dict>
+</plist>

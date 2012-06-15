@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MacRomanEncoding</key>
+	<string>mac_roman</string>
+	<key>Identity-H</key>
+	<string></string>
+	<key>MacExpertEncoding</key>
+	<string>mac_expert</string>
+	<key>PDFDocEncoding</key>
+	<string>pdf_doc</string>
+	<key>StandardEncoding</key>
+	<string>standard</string>
+	<key>SymbolEncoding</key>
+	<string>symbol</string>
+	<key>UTF16Encoding</key>
+	<string></string>
+	<key>WinAnsiEncoding</key>
+	<string>win_ansi</string>
+	<key>ZafDingbatsEncoding</key>
+	<string>zapf_dingbats</string>
+</dict>
+</plist>
